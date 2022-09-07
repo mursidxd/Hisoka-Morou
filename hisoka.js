@@ -1203,7 +1203,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 812-4800-9076'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2778,8 +2778,18 @@ let capt = `⭔ Title: ${judul}
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
-                anu = `┌──⭓ *Group Menu*
-│
+                anu = `┌──「 *INFO OWNER* 」──⬣
+│⭔ Nama Owner : Kina Cans
+│⭔ Nama Bot : Baymaxbot
+│⭔ Asal : Sulawesi
+│⭔ Umur : 18
+│⭔ Status : Pelajar/KULIAH
+│⭔ Nomer Owner : 081248009076
+│⭔ Server : Panel/RDP
+│⭔ Version : Bailyes Multi Device
+└───────⬣              
+               
+┌──「 *GRUP* 」──⬣
 │⭔ ${prefix}linkgroup
 │⭔ ${prefix}ephemeral [option]
 │⭔ ${prefix}setppgc [image]
@@ -2801,11 +2811,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}upvote
 │⭔ ${prefix}cekvote
 │⭔ ${prefix}hapusvote
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Webzone Menu*
-│
+┌──「 *WEBZONE* 」──⬣
 │⭔ ${prefix}playstore
 │⭔ ${prefix}gsmarena
 │⭔ ${prefix}jadwalbioskop
@@ -2814,12 +2822,10 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}wattpad
 │⭔ ${prefix}webtoons
 │⭔ ${prefix}drakor
-│
-└───────⭓
+└───────⬣
 
 
-┌──⭓ *Downloader Menu*
-│
+┌──「 *DOWNLOADER* 」──⬣
 │⭔ ${prefix}tiktoknowm [url]
 │⭔ ${prefix}tiktokwm [url]
 │⭔ ${prefix}tiktokmp3 [url]
@@ -2835,11 +2841,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}umma [url]
 │⭔ ${prefix}joox [query]
 │⭔ ${prefix}soundcloud [url]
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Search Menu*
-│
+┌──「 *SEARCH* 」──⬣
 │⭔ ${prefix}play [query]
 │⭔ ${prefix}yts [query]
 │⭔ ${prefix}google [query]
@@ -2850,11 +2854,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}ytsearch [query]
 │⭔ ${prefix}ringtone [query]
 │⭔ ${prefix}stalk [option] [query]
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Random Menu*
-│
+┌──「 *RANDOM* 」──⬣
 │⭔ ${prefix}coffe
 │⭔ ${prefix}quotesanime
 │⭔ ${prefix}motivasi
@@ -2872,11 +2874,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}nekos (nsfw)
 │⭔ ${prefix}trap (nsfw)
 │⭔ ${prefix}blowjob (nsfw)
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Text Pro Menu*
-│
+┌──「 *TEXT PRO* 」──⬣
 │⭔ ${prefix}3dchristmas
 │⭔ ${prefix}3ddeepsea
 │⭔ ${prefix}americanflag
@@ -2908,11 +2908,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}3dgradient
 │⭔ ${prefix}blackpink
 │⭔ ${prefix}gluetext
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Photo Oxy Menu*
-│
+┌──「 *PHOTO OXY* 」──⬣
 │⭔ ${prefix}shadow
 │⭔ ${prefix}romantic
 │⭔ ${prefix}smoke
@@ -2925,11 +2923,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}butterfly
 │⭔ ${prefix}harrypotter
 │⭔ ${prefix}retrolol
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Ephoto Menu*
-│
+┌──「 *EPHOTO* 」──⬣
 │⭔ ${prefix}ffcover
 │⭔ ${prefix}crossfire
 │⭔ ${prefix}galaxy
@@ -2939,11 +2935,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}blackpink
 │⭔ ${prefix}igcertificate
 │⭔ ${prefix}ytcertificate
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Fun Menu*
-│
+┌──「 *FUN* 」──⬣
 │⭔ ${prefix}simih
 │⭔ ${prefix}halah
 │⭔ ${prefix}hilih
@@ -2958,11 +2952,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}tebak [option]
 │⭔ ${prefix}math [mode]
 │⭔ ${prefix}suitpvp [@tag]
-│
 └───────⭓
 
-┌──⭓ *Primbon Menu*
-│
+┌──「 *PRIMBON* 」──⬣
 │⭔ ${prefix}nomorhoki
 │⭔ ${prefix}artimimpi
 │⭔ ${prefix}artinama
@@ -2993,11 +2985,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}masasubur
 │⭔ ${prefix}zodiak
 │⭔ ${prefix}shio
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Convert Menu*
-│
+┌──「 *CONVERT* 」──⬣
 │⭔ ${prefix}attp
 │⭔ ${prefix}ttp
 │⭔ ${prefix}toimage
@@ -3016,11 +3006,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}dbinary
 │⭔ ${prefix}styletext
 │⭔ ${prefix}smeme
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Main Menu*
-│
+┌──「 *MAIN MENU* 」──⬣
 │⭔ ${prefix}ping
 │⭔ ${prefix}owner
 │⭔ ${prefix}menu / ${prefix}help / ${prefix}?
@@ -3031,11 +3019,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}listgc
 │⭔ ${prefix}listonline
 │⭔ ${prefix}speedtest
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Database Menu*
-│
+┌──「 *DATABASE* 」──⬣
 │⭔ ${prefix}setcmd
 │⭔ ${prefix}listcmd
 │⭔ ${prefix}delcmd
@@ -3044,29 +3030,23 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}listmsg
 │⭔ ${prefix}getmsg
 │⭔ ${prefix}delmsg
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Anonymous Menu*
-│
+┌──「 *ANONYMOUSE* 」──⬣
 │⭔ ${prefix}anonymous
 │⭔ ${prefix}start
 │⭔ ${prefix}next
 │⭔ ${prefix}keluar
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Islamic Menu*
-│
+┌──「 *ISLAMIC* 」──⬣
 │⭔ ${prefix}iqra
 │⭔ ${prefix}hadist
 │⭔ ${prefix}alquran
 │⭔ ${prefix}tafsirsurah
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Voice Changer*
-│
+┌──「 *VOICE* 」──⬣
 │⭔ ${prefix}bass
 │⭔ ${prefix}blown
 │⭔ ${prefix}deep
@@ -3078,11 +3058,9 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}robot
 │⭔ ${prefix}slow
 │⭔ ${prefix}tupai
-│
-└───────⭓
+└───────⬣
 
-┌──⭓ *Owner Menu*
-│
+┌──「 *OWNER* 」──⬣
 │⭔ ${prefix}react [emoji]
 │⭔ ${prefix}chat [option]
 │⭔ ${prefix}join [link]
@@ -3097,26 +3075,47 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}anticall [on/off]
 │⭔ ${prefix}setstatus
 │⭔ ${prefix}setnamebot
-│
-└───────⭓`
+└───────⬣
+
+┌── 「*BIG THANKS TO* 」──⬣
+│• Allah SWT
+│• Nurutomo as wabot-aq
+│• Istikmal as BochilGaming
+│• Ariffb as stikerin
+│• Aguz Familia
+│• Ziv San
+│• Nayla Hanifah
+│• The.sad.boy01
+│• Syahrul
+│• Vanesha Desu
+│• Aniq12
+│• Amirul Dev (Spesial)
+│• Rasell Comel
+│• Faudzan
+│• Krisna
+ | • Krizynofc
+│• Kurukuumd (Mark)
+│• Mursid S
+│• All Creator Bot
+└─────────────⬣`
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
+                                    displayText: 'ѕσυʀᴄᴇ ᴄσ∂є',
                                     url: 'https://github.com/DikaArdnt/Hisoka-Morou'
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    displayText: 'ᴄαℓℓ ρнσɴє σωɴᴇʀ',
+                                    phoneNumber: '+62 812-4800-9076'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
+                                    displayText: 'ѕтαтυѕ вσт',
                                     id: 'ping'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Contact Owner',
+                                    displayText: 'ᴄσɴтαᴄт σωɴєя',
                                     id: 'owner'
                                 }  
                             }, {
